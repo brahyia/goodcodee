@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Student Aid Website
+      Student Aid Websites
     </div>
   );
 }
